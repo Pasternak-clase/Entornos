@@ -1,0 +1,15 @@
+C:\Users\paste\Desktop\depuracionC\bin\Debug\net6.0\depuracionC.exe
+C:\Users\paste\Desktop\depuracionC\bin\Debug\net6.0\depuracionC.deps.json
+C:\Users\paste\Desktop\depuracionC\bin\Debug\net6.0\depuracionC.runtimeconfig.json
+C:\Users\paste\Desktop\depuracionC\bin\Debug\net6.0\depuracionC.dll
+C:\Users\paste\Desktop\depuracionC\bin\Debug\net6.0\depuracionC.pdb
+C:\Users\paste\Desktop\depuracionC\obj\Debug\net6.0\depuracionC.csproj.AssemblyReference.cache
+C:\Users\paste\Desktop\depuracionC\obj\Debug\net6.0\depuracionC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paste\Desktop\depuracionC\obj\Debug\net6.0\depuracionC.AssemblyInfoInputs.cache
+C:\Users\paste\Desktop\depuracionC\obj\Debug\net6.0\depuracionC.AssemblyInfo.cs
+C:\Users\paste\Desktop\depuracionC\obj\Debug\net6.0\depuracionC.csproj.CoreCompileInputs.cache
+C:\Users\paste\Desktop\depuracionC\obj\Debug\net6.0\depuracionC.dll
+C:\Users\paste\Desktop\depuracionC\obj\Debug\net6.0\refint\depuracionC.dll
+C:\Users\paste\Desktop\depuracionC\obj\Debug\net6.0\depuracionC.pdb
+C:\Users\paste\Desktop\depuracionC\obj\Debug\net6.0\depuracionC.genruntimeconfig.cache
+C:\Users\paste\Desktop\depuracionC\obj\Debug\net6.0\ref\depuracionC.dll
